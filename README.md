@@ -1,2 +1,2 @@
 # testrepo
-git and github course in coursera
+Git and GitHub course in Coursera
